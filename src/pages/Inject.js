@@ -117,7 +117,8 @@ const Inject = () => {
                                 id=""
                                 className="form-control ng-untouched ng-pristine ng-valid"
                               >
-                                <option value="sds">dsad</option>
+                                <option value="sds">Mũi tiêm thứ nhất</option>
+                                <option value="sds">Mũi tiêm tiếp theo</option>
                               </select>
                               {/**/}
                             </div>
@@ -405,7 +406,7 @@ const Inject = () => {
                                 id=""
                                 className="form-control ng-untouched ng-pristine ng-valid"
                               >
-                                <option value="sds">dsad</option>
+                                <option value="sds">Đà Nẵng</option>
                               </select>
                               {/**/}
                             </div>
@@ -442,12 +443,12 @@ const Inject = () => {
                                 id=""
                                 className="form-control ng-untouched ng-pristine ng-valid"
                               >
-                                <option value="sds">dsad</option>
+                                <option value="choose" >zz</option>
                               </select>
                               {/**/}
                             </div>
                           </div>
-                          <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
+                          {/* <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
                             <div _ngcontent-mjb-c9 className="form-group">
                               <label _ngcontent-mjb-c9 htmlFor>
                                 {" "}
@@ -461,8 +462,8 @@ const Inject = () => {
                                 <option value="sds">dsad</option>
                               </select>
                             </div>
-                          </div>
-                          <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
+                          </div> */}
+                          {/* <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
                             <div _ngcontent-mjb-c9 className="form-group">
                               <label _ngcontent-mjb-c9 htmlFor>
                                 {" "}
@@ -476,8 +477,8 @@ const Inject = () => {
                                 <option value="sds">dsad</option>
                               </select>
                             </div>
-                          </div>
-                          <div _ngcontent-mjb-c9 className="col-lg-6 col-md-12">
+                          </div> */}
+                          {/* <div _ngcontent-mjb-c9 className="col-lg-6 col-md-12">
                             <div _ngcontent-mjb-c9 className="form-group">
                               <label _ngcontent-mjb-c9 htmlFor>
                                 {" "}
@@ -493,14 +494,13 @@ const Inject = () => {
                               >
                                 <option value="sds">dsad</option>
                               </select>
-                              {/**/}
                             </div>
-                          </div>
-                          <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
+                          </div> */}
+                          {/* <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
                             <div _ngcontent-mjb-c9 className="form-group">
                               <label _ngcontent-mjb-c9 htmlFor>
                                 {" "}
-                                Họ và tên người giám hộ {/**/}
+                                Họ và tên người giám hộ 
                                 <span
                                   _ngcontent-mjb-c9
                                   className="text-danger ng-star-inserted"
@@ -516,14 +516,14 @@ const Inject = () => {
                                 type="text"
                                 placeholder="Họ và tên người giám hộ"
                               />
-                              {/**/}
+                             
                             </div>
-                          </div>
-                          <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
+                          </div> */}
+                          {/* <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
                             <div _ngcontent-mjb-c9 className="form-group">
                               <label _ngcontent-mjb-c9 htmlFor>
                                 {" "}
-                                Quan hệ {/**/}
+                                Quan hệ 
                                 <span
                                   _ngcontent-mjb-c9
                                   className="text-danger ng-star-inserted"
@@ -538,14 +538,14 @@ const Inject = () => {
                               >
                                 <option value="sds">dsad</option>
                               </select>
-                              {/**/}
+                             
                             </div>
-                          </div>
-                          <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
+                          </div> */}
+                          {/* <div _ngcontent-mjb-c9 className="col-lg-3 col-md-12">
                             <div _ngcontent-mjb-c9 className="form-group">
                               <label _ngcontent-mjb-c9 htmlFor>
                                 {" "}
-                                Số điện thoại người giám hộ {/**/}
+                                Số điện thoại người giám hộ 
                                 <span
                                   _ngcontent-mjb-c9
                                   className="text-danger ng-star-inserted"
@@ -562,9 +562,9 @@ const Inject = () => {
                                 type="text"
                                 placeholder="Số điện thoại người giám hộ"
                               />
-                              {/**/}
+                              
                             </div>
-                          </div>
+                          </div> */}
                           <div _ngcontent-mjb-c9 className="col-12 mb-2">
                             <h6 _ngcontent-mjb-c9 className="sfbold">
                               2. Thông tin đăng ký tiêm chủng
@@ -599,7 +599,9 @@ const Inject = () => {
                                 id=""
                                 className="form-control ng-untouched ng-pristine ng-valid"
                               >
-                                <option value="sds">dsad</option>
+                                <option value="Choose">Buổi sáng</option>
+                                <option value="Choose">Buổi tối</option>
+                                <option value="Choose">Cả ngày</option>
                               </select>
                             </div>
                           </div>
